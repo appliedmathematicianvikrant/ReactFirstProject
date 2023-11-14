@@ -1,7 +1,7 @@
 function AppInput(){
     return <div>
-        <div class="container text-center">
-    <div class="row">
+        <div class="container">
+    <div class="row kg-row">
       <div class="col-5">
         <input type="text" placeholder="Enter ToDo Here" />
       </div>

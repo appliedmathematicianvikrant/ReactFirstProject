@@ -5,13 +5,20 @@ import ToDoItems2 from "./container/ToDoItems2";
 import "./my.css";
 function App() {
   return (
-    <center class="todo-container">
+
+    <div className="container">
+  <center className="todo-container">
       <AppName></AppName>
       <AppInput></AppInput>
+
+      <div className='item-container'>
       <ToDoItems1></ToDoItems1>
       <ToDoItems2></ToDoItems2>
-
+      </div>
+     
       </center>
+    </div>
+  
     
   );
 }

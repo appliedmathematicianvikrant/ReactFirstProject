@@ -2,7 +2,7 @@ function ToDoItems1(){
     return <div>
 
         <div>
-    <div className="row">
+    <div className="row kg-row">
     <div class="col-5">
      Buy Milk
     </div>

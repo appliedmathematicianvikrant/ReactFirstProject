@@ -9,4 +9,17 @@ h1{
 
 input{
     width:100%;
+    height:40px;
+}
+
+.item-container{
+    text-align: left;
+}
+
+.row{
+  margin:30px;
+}
+
+.col-3{
+    text-align: left;
 }
